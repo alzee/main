@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.9.0",
-    "bootstrap": "^4.3.1",
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap": "^4.5.0",
     "ipinyinjs": "^1.0.0",
-    "mustache": "^3.0.1",
-    "vue": "^2.6.10",
-    "xlsx": "^0.14.3"
+    "mustache": "^3.2.1",
+    "swiper": "^5.4.1",
+    "vue": "^2.6.11",
+    "xlsx": "^0.14.5"
   },
   "devDependencies": {},
   "scripts": {
