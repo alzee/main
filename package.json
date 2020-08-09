@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.13.0",
-    "bootstrap": "^4.5.0",
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.2",
     "bootstrap-icons": "^1.0.0-alpha5",
     "flatpickr": "^4.6.3",
     "mustache": "^3.2.1",
-    "swiper": "^5.4.1",
+    "swiper": "^5.4.5",
     "vue": "^2.6.11"
   },
   "devDependencies": {},
