@@ -9,7 +9,7 @@
     "bootstrap-icons": "^1.1.0",
     "flatpickr": "^4.6.6",
     "highlight.js": "^10.4.1",
-    "marked": "^1.2.5",
+    "marked": "^2.0.0",
     "mustache": "^3.2.1",
     "swiper": "^5.4.5",
     "vue": "^2.6.12"
