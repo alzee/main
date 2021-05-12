@@ -11,7 +11,7 @@
     "highlight.js": "^10.7.1",
     "marked": "^2.0.1",
     "mustache": "^3.2.1",
-    "swiper": "^5.4.5",
+    "swiper": "^6.5.1",
     "vue": "^2.6.12"
   },
   "devDependencies": {},
