@@ -12,7 +12,7 @@
     "marked": "^4.0.10",
     "mustache": "^3.2.1",
     "swiper": "^6.5.1",
-    "vue": "^2.6.12"
+    "vue": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
